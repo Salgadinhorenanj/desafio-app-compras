@@ -1,4 +1,4 @@
-🔨 ##Objetivos do projeto## <hr>
+🔨 Objetivos do projeto <hr>
 
 Criar uma classe que represente uma compra (descrição e valor);<br>
 Criar uma classe que represente um cartão de crédito (limite, saldo e lista de compras), sendo que ela deve possuir um método para registrar uma compra;<br>
